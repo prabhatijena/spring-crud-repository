@@ -8,6 +8,8 @@ public class SpringCrudOperation3Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCrudOperation3Application.class, args);
+
+       String s = "Prabhati";
 	}
 
 }
